@@ -14,7 +14,7 @@ cd SMS-Spoofer
 
 pip install twilio
 
-python spoofer.py
+python Spoofer.py
 
 How To Send Messages
 --------------------

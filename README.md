@@ -18,4 +18,12 @@ python Spoofer.py
 
 How To Send Messages
 --------------------
-Replace 'your_account_sid' and 'your_auth_token' with your Twilio account SID and auth token, respectively. Also replace 'your_twilio_number' with a Twilio phone number that you have access to, and 'recipient_phone_number' with the phone number you want to send the spoofed SMS to.
+Replace the following variables below:
+
+"YOUR_ACCOUNT_SID" with your Twilio account SID
+
+"YOUR_AUTH_TOKEN" with your Twilio auth token
+
+"YOUR_TWILIO_PHONE_NUMBER" with your Twilio phone number
+
+"RECIPIENT_PHONE_NUMBER" with the phone number you want to send the message to

@@ -14,7 +14,11 @@ cd Twilio-SMS-Spoofer
 
 pip install twilio
 
-python Spoofer.py
+IF you want to use V1:
+python SMS-Spoofer.py
+
+IF you want to use V2:
+python3 SMS-SpooferV2.py
 
 How To Send Messages
 --------------------
@@ -27,3 +31,7 @@ Replace the following variables below:
 "YOUR_TWILIO_PHONE_NUMBER" with your Twilio phone number
 
 "RECIPIENT_PHONE_NUMBER" with the phone number you want to send the message to
+
+NOTE
+----
+If you're using V2, you do not have to replace the variables.

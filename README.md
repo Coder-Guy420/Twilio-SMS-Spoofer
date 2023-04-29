@@ -18,7 +18,7 @@ IF you want to use V1:
 python SMS-Spoofer.py
 
 IF you want to use V2:
-python3 SMS-SpooferV2.py
+python SMS-SpooferV2.py
 
 How To Send Messages
 --------------------

@@ -8,7 +8,7 @@ You can sign up for a Twilio account at https://www.twilio.com/
 
 INSTALL REPOSITORY
 --------------------------------
-git clone https://github.com/SyfonSec/Twilio-SMS-Spoofer
+git clone https://github.com/Coder-Guy420/Twilio-SMS-Spoofer
 
 cd SMS-Spoofer
 

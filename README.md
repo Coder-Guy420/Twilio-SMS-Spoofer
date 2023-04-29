@@ -6,7 +6,7 @@ Get A Twilio #
 ---------------
 You can sign up for a Twilio account at https://www.twilio.com/
 
-INSTALL REPOSITORY
+Install Repository
 --------------------------------
 git clone https://github.com/Coder-Guy420/Twilio-SMS-Spoofer
 

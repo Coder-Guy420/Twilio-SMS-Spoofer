@@ -10,7 +10,7 @@ INSTALL REPOSITORY
 --------------------------------
 git clone https://github.com/Coder-Guy420/Twilio-SMS-Spoofer
 
-cd SMS-Spoofer
+cd Twilio-SMS-Spoofer
 
 pip install twilio
 
